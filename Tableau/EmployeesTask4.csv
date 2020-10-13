@@ -1,0 +1,19 @@
+dept_name,gender,avg_salary
+"Customer Service",M,62958
+"Customer Service",F,62344
+Development,M,62924
+Development,F,61964
+Finance,M,67982
+Finance,F,67421
+"Human Resources",M,60190
+"Human Resources",F,59868
+Marketing,M,68694
+Marketing,F,67554
+Production,M,62979
+Production,F,61861
+"Quality Management",M,61990
+"Quality Management",F,60697
+Research,M,62900
+Research,F,61796
+Sales,M,72609
+Sales,F,71277
